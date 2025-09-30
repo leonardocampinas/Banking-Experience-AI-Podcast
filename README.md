@@ -29,3 +29,5 @@ Perspectivas de integração de IA nos negócios.
 🚀 Objetivo
 
 Mostrar, de forma prática, como a IA pode ser usada não apenas para análise de dados, mas também para criação de conteúdo criativo e realista, integrando narrativa, áudio e artes visuais.
+
+https://wonderful-addition-a80.notion.site/Banking-Experience-AI-Podcast-27e4581312d780118e91f1ead4f8c74b
