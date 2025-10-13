@@ -1,22 +1,20 @@
 🎙️ Banking Experience AI Podcast
 
-Este repositório foi criado como parte de um projeto prático do bootcamp Fundamentos de IA Generativa (DIO).
-O objetivo é demonstrar como a Inteligência Artificial pode apoiar a criação de conteúdos multimídia, neste caso, um podcast sobre tecnologia, bancos e experiência do cliente corporate.
+Este repositório reúne um projeto prático desenvolvido no Bootcamp Fundamentos de IA Generativa (DIO), com o objetivo de demonstrar como a Inteligência Artificial pode apoiar a criação de conteúdos multimídia, aplicando narrativa, áudio e artes visuais de forma integrada.
 
 📌 O que você encontra aqui
 
-Roteiro da simulação: prompts utilizados para gerar as conversas entre os personagens (Sofia, Thel e Roberto).
+Roteiro da simulação: prompts detalhados usados para gerar conversas entre os personagens Sofia e Thel.
 
-Áudio editado do podcast: versão final pronta para ouvir.
+Áudio do podcast: episódio finalizado, pronto para ouvir.
 
-Imagens de apoio: artes criadas com IA para compor a identidade visual do projeto.
+Artes de apoio: imagens criadas com IA para compor a identidade visual.
 
-Descrição do episódio: texto pensado para plataformas de streaming (Spotify, Deezer, Apple Podcasts etc.).
+Descrição do episódio: texto adaptado para plataformas de streaming (Spotify, Deezer, Apple Podcasts etc.).
 
-🎯 Contexto do podcast
+🧠 Visão Geral do Podcast
 
-O podcast simula a experiência de empresários corporate que discutem o futuro dos negócios com uso de Inteligência Artificial no setor bancário.
-As falas foram estruturadas no formato de áudios trocados entre amigos e sócios, abordando temas como:
+O podcast simula diálogos entre empresários corporate discutindo o futuro dos negócios e o uso de IA no mercado financeiro, com foco em:
 
 Exclusividade e automação na experiência corporate.
 
@@ -26,8 +24,22 @@ Engajamento e relacionamento entre bancos e empresas.
 
 Perspectivas de integração de IA nos negócios.
 
-🚀 Objetivo
+As falas foram estruturadas no formato de áudios entre amigos e sócios, trazendo uma experiência realista e envolvente.
 
-Mostrar, de forma prática, como a IA pode ser usada não apenas para análise de dados, mas também para criação de conteúdo criativo e realista, integrando narrativa, áudio e artes visuais.
+💻 Tecnologias e Ferramentas Utilizadas
 
-https://wonderful-addition-a80.notion.site/Banking-Experience-AI-Podcast-27e4581312d780118e91f1ead4f8c74b
+ChatGPT – geração do roteiro e estrutura narrativa.
+
+MidJourney – criação das imagens de apoio e identidade visual.
+
+ElevenLabs – geração de vozes realistas em português para os personagens.
+
+CapCut – edição de áudio, inserção de trilha sonora e finalização do episódio.
+
+🚀 Objetivo do Projeto
+
+Demonstrar de forma prática como a IA pode ser usada não apenas para análise de dados, mas também para a criação de conteúdo criativo, combinando narrativa, áudio e elementos visuais de maneira profissional e escalável.
+
+🔗 Links Úteis: https://wonderful-addition-a80.notion.site/Banking-Experience-AI-Podcast-27e4581312d780118e91f1ead4f8c74b
+
+Acesse o episódio do podcast
