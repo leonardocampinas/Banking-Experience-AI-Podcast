@@ -2,7 +2,7 @@
 
 
 
-# **🎙️ Banking Experience AI Podcast**
+# **🎙️ Banking Experience AI Podcast - Experiência Santander Corporate**
 
 Este repositório reúne um projeto prático desenvolvido no Bootcamp Fundamentos de IA Generativa (DIO), com o objetivo de demonstrar como a Inteligência Artificial pode apoiar a criação de conteúdos multimídia, aplicando narrativa, áudio e artes visuais de forma integrada.
 
@@ -72,7 +72,7 @@ Com foco em relacionamento de longo prazo e antecipação de necessidades, o San
 
 *Engenheiro de Produção, Especialista em Gestão de Pessoas e Bancário*
 
-## **Contato do desenvolvedor:** 
+## **🤝 Contato do desenvolvedor:** 
 
 [🌐 Linkedln](https://www.linkedin.com/in/leonardo-campinas/)
 
