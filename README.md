@@ -49,10 +49,10 @@ As falas foram estruturadas no formato de áudios entre amigos e sócios, trazen
 Demonstrar de forma prática como a IA pode ser usada não apenas para análise de dados, mas também para a criação de conteúdo criativo, combinando narrativa, áudio e elementos visuais de maneira profissional e escalável.
 
 
-## Acesse o podcast:
+## 🎧 Acesse o podcast:
 Ele explora o futuro do mercado financeiro corporate com Inteligência Artificial, simulando diálogos entre empresários sobre inovação, experiência do cliente e soluções estratégicas. Uma forma prática de mostrar como a IA pode transformar conteúdo, narrativa e relacionamento com clientes.
 
-🔗 [Banking Experience AI Podcast](https://wonderful-addition-a80.notion.site/Banking-Experience-AI-Podcast-27e4581312d780118e91f1ead4f8c74b)
+🔗 [Ouça aqui](https://wonderful-addition-a80.notion.site/Banking-Experience-AI-Podcast-27e4581312d780118e91f1ead4f8c74b)
 
 ## 🏢 Sobre o Santander Corporate:
 O Santander Corporate se diferencia por entender profundamente as necessidades de empresas e empresários, oferecendo soluções financeiras que vão além do tradicional.
@@ -61,14 +61,18 @@ Com foco em relacionamento de longo prazo e antecipação de necessidades, o San
 
 <img width="1536" height="768" alt="image" src="https://github.com/user-attachments/assets/8c795c95-c621-420f-9556-3aab04b7d267" />
 
-*Vem ser Santander! Vem ser cliente Corporate.*
-*Te esperamos. Começa em você. Começa agora!*
+[*Vem ser Santander! Vem ser cliente Corporate.*
+*Te esperamos. Começa em você. Começa agora!*](https://www.santander.com.br/santander-corporate)
+
+
 
 *Com carinho,* 
 
 *Leonardo Campinas Pinto*
 
-**Contato do desenvolvedor:** 
+*Engenheiro de Produção, Especialista em Gestão de Pessoas e Bancário*
 
-[Linkedln](https://www.linkedin.com/in/leonardo-campinas/)
+## **Contato do desenvolvedor:** 
+
+[🌐 Linkedln](https://www.linkedin.com/in/leonardo-campinas/)
 
