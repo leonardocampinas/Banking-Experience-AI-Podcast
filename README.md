@@ -35,13 +35,13 @@ As falas foram estruturadas no formato de áudios entre amigos e sócios, trazen
 
 ## 💻 Tecnologias e Ferramentas Utilizadas:
 
-ChatGPT – geração do roteiro e estrutura narrativa.
+[ChatGPT](https://chatgpt.com/) – geração do roteiro e estrutura narrativa.
 
-MidJourney – criação das imagens de apoio e identidade visual.
+[MidJourney](https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwisq-ndy6SQAxWFQEgAHR-mBVsYACICCAEQABoCY2U&co=1&ase=2&gclid=Cj0KCQjw6bfHBhDNARIsAIGsqLgOKS9qV-x9snVclJFNsp9CXA6zbfzFADd5-_mcA4OlvsRJ6D6Kl18aAoDWEALw_wcB&cid=CAASuwHkaBjorkISBXWiSB2swzrKd3Eqm2FpAC5MdVGOjmyy1i7KDuZO6BqcoYPrf_OScgXdNVxcJixb-TwFkoZy7dZPVyY9LX0ZdOkai3_wJM3q5_nfXLLPxgw4N_rbGJwHBrx0ven2JDAKgeu80VqZwCiRXcptNOkt4vlArHC78Zl5KnfPoqIgeIPp93ZxCcixkZwYHsW9OsUUjmwZsR9eVcfLwOOYkDezEAO_7SlI-DmmlzX_fPd5TlSZicVM&cce=2&category=acrcp_v1_32&sig=AOD64_0ZfFnr4Us2h7Zs0zxmQ0KZkS3Kdg&q&nis=4&adurl=https://chat-assistant.ai/web/prod/onboarding-005/capabilities?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3DAI_Assistant_Web_Search_BR_NTN_Image%26utm_content%3D777978753291%26utm_term%3Dmidjourney%26campaign_id%3D23068346124%26adset_id%3D181509610690%26ad_id%3D777978753291%26gad_source%3D1%26gad_campaignid%3D23068346124%26gbraid%3D0AAAABAl1fj8cOEG_BFSdN1Mrzu6FI758i%26gclid%3DCj0KCQjw6bfHBhDNARIsAIGsqLgOKS9qV-x9snVclJFNsp9CXA6zbfzFADd5-_mcA4OlvsRJ6D6Kl18aAoDWEALw_wcB&ved=2ahUKEwjOheTdy6SQAxWlrpUCHeI-Aw8Q0Qx6BAgLEAE) – criação das imagens de apoio e identidade visual.
 
-ElevenLabs – geração de vozes realistas em português para os personagens.
+[ElevenLabs](https://elevenlabs.io/?gad_source=1&gad_campaignid=23092110430&gbraid=0AAAAAqiHkX3o3qUn2bMqxDIPu1DAs4lHt&gclid=EAIaIQobChMI-cmc5s6kkAMVzGFIAB1GEgZkEAAYAiAAEgLjGPD_BwE) – geração de vozes realistas em português para os personagens.
 
-CapCut – edição de áudio, inserção de trilha sonora e finalização do episódio.
+[CapCut](https://www.capcut.com/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&pid=359289&af_c_id=22796902711&adset_id=181783636505&ad_id=763715934156&placement=&keyword_name=capcut&targetid=kwd-1406970026529&matchtype=e&gad_source=1&gad_campaignid=22796902711&gbraid=0AAAAACROvhkNWWAd9-2TsS6w6AOXKxDxf&gclid=EAIaIQobChMIlcbxks-kkAMV6GdIAB3WWQOHEAAYASAAEgKNzPD_BwE) – edição de áudio, inserção de trilha sonora e finalização do episódio.
 
 
 ## 🚀 Objetivo do Projeto:
@@ -67,3 +67,8 @@ Com foco em relacionamento de longo prazo e antecipação de necessidades, o San
 *Com carinho,* 
 
 *Leonardo Campinas Pinto*
+
+**Contato do desenvolvedor:** 
+
+[Linkedln](https://www.linkedin.com/in/leonardo-campinas/)
+
