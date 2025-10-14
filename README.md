@@ -68,7 +68,7 @@ Com foco em relacionamento de longo prazo e antecipação de necessidades, o San
 
 *Com carinho,* 
 
-*Leonardo Campinas Pinto*
+*Leonardo Campinas Pinto, CEA, PQOᴮ³*
 
 *Engenheiro de Produção, Especialista em Gestão de Pessoas e Bancário*
 
