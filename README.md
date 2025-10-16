@@ -6,6 +6,17 @@
 
 Este repositório reúne um projeto prático desenvolvido no Bootcamp Fundamentos de IA Generativa (DIO), com o objetivo de demonstrar como a Inteligência Artificial pode apoiar a criação de conteúdos multimídia, aplicando narrativa, áudio e artes visuais de forma integrada.
 
+## 🎯 Ideia Central:
+
+<div align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2138552e-c44d-4a70-922c-9a0a13eadd01" />
+  
+*"Conectamos capital, estratégia e propósito para impulsionar o crescimento sustentável das empresas e do mercado."*
+</div>
+
+Inspirado no posicionamento do Santander Corporate & Investment Banking como referência em excelência e estratégia, este podcast simula conversas entre empresários sobre inovação, relacionamento e futuro dos negócios.
+A proposta é traduzir, de forma leve e humana, a experiência de um banco global que une inteligência financeira, tecnologia e proximidade com o cliente corporativo.
+
 
 ## 📌 O que você encontra aqui:
 
