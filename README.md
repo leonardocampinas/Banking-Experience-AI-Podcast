@@ -10,8 +10,8 @@ Este repositório reúne um projeto prático desenvolvido no Bootcamp Fundamento
 
 <div align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2138552e-c44d-4a70-922c-9a0a13eadd01" />
-  
-*"Conectamos capital, estratégia e propósito para impulsionar o crescimento sustentável das empresas e do mercado."*
+
+[*"Conectamos capital, estratégia e propósito para impulsionar o crescimento sustentável das empresas e do mercado."*](https://www.santander.com.br/santander-corporate)
 </div>
 
 Inspirado no posicionamento do Santander Corporate & Investment Banking como referência em excelência e estratégia, este podcast simula conversas entre empresários sobre inovação, relacionamento e futuro dos negócios.
@@ -72,8 +72,8 @@ Com foco em relacionamento de longo prazo e antecipação de necessidades, o San
 
 <img width="1536" height="768" alt="image" src="https://github.com/user-attachments/assets/8c795c95-c621-420f-9556-3aab04b7d267" />
 
-[*Vem ser Santander! Vem ser cliente Corporate.*
-*Te esperamos. Começa em você. Começa agora!*](https://www.santander.com.br/santander-corporate)
+*Vem ser Santander! Vem ser cliente Corporate.*
+*Te esperamos. Começa em você. Começa agora!*
 
 
 
